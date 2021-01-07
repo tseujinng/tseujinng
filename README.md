@@ -1,11 +1,12 @@
 ### Hi,I'am Igarashi01.
 
-- High school
-- [Blog](https://me.ruakio.com)
-- Anime/Songs
-- Drawing
-- VS Code
-- Laptop:
+- 🏫Senior high  
+- 📜[Blog](https://me.ruakio.com)  
+- 📺EVANGELION  
+- 🎨Drawing
+- 🎮Minecraft  
+- 🔨VS Code/AIMP  
+- 💻Laptop:  
 CPU: AMD 3500U  
 Graphics card: Vega 8  
 Memory: 8GB DDR4 2400MHz  
