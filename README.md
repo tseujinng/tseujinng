@@ -1,11 +1,11 @@
-### Hi,I'am Igarashi01.
+### Hi,I' am Whale Zhou/Igarashi01.
 
 - 🏫Senior high
 - 📜Blog at [Black Moon](https://me.ruakio.com)
 - 📺EVANGELION
 - 🎨Drawing
 - 🎮Minecraft/Stardew Valley/Terraria/Don't Starve
-- 🔨VS Code/AIMP
+- 🔨VS Code/AIMP/Firefox
 - 💻Laptop:
 CPU: AMD 3500U
 Graphics card: Vega 8
