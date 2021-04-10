@@ -1,4 +1,4 @@
-### Hi,I' am ChouChingyu/Igarashi01.
+### Hi,I' am Jingyu
 
 - 🏫Senior high  
 - 📜Blog at [Black Moon](https://me.ruakio.com)  
